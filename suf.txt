@@ -1,0 +1,14 @@
+CSS=Cascading,Style,Sheet
+Selector {
+Property:Value;   }
+ CSS SYNTAX
+
+Inline-CSS
+Internal-CSS
+External-CSS
+
+TYPE/HTML-Selector
+
+Combining selector
+
+BOX MODEL
